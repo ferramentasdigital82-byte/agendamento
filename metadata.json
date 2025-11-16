@@ -1,0 +1,5 @@
+{
+  "name": "Agendamento SaaS",
+  "description": "A modern and interactive scheduling SaaS application that allows users to manage events and appointments through a dynamic calendar interface. Users can add, view, and manage their schedule with ease, preventing booking conflicts.",
+  "requestFramePermissions": []
+}
